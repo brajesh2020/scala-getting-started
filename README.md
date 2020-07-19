@@ -1,4 +1,4 @@
-# scala/play-getting-started
+# scala/play-getting-started By Brajesh
 
 A barebones Scala app (using the Play framework), which can easily be deployed to Heroku.  
 
